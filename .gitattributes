@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.zip binary
+*.npz binary
+# Preserve the original companion bytes on every operating system.
+section3/** -text

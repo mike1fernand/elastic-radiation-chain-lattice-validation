@@ -1,0 +1,61 @@
+{
+  "repository": "https://github.com/mike1fernand/low-frequency-radiation-reciprocal-junction-validation",
+  "commit": "6eac4ca3e89195a6b92445cfd408d9e1a8b1e26c",
+  "files": {
+    "low_frequency.py": {
+      "repo_path": "validation/predictions/baseline/Prediction_Calculations_2026-09-26/low_frequency/low_frequency.py",
+      "git_blob": "13660e83dcc8c6ab6bae25b8c90298e5e13ec837",
+      "sha256": "4ca90b99bc2771f6d5ef08dacee593f8d61b3f04a2740b3c105ebdbac5c374c8"
+    },
+    "refined/kernel_0.01250000.npz": {
+      "repo_path": "validation/predictions/baseline/Prediction_Calculations_2026-09-26/low_frequency/refined/kernel_0.01250000.npz",
+      "git_blob": "7927eec7c28d45a529e5613a4febeff381eda451",
+      "sha256": "ac05e79abdc23a7b01b68e244218562ecf06b2ec503f8eb73905f9e69409ee4e"
+    },
+    "refined/kernel_0.05000000.npz": {
+      "repo_path": "validation/predictions/baseline/Prediction_Calculations_2026-09-26/low_frequency/refined/kernel_0.05000000.npz",
+      "git_blob": "b74c8965c2550bc49c933e88c6a939ac8e5f36ee",
+      "sha256": "87fedf476862478508cad17b04bf556745841ed05ed16c70ee19e5bbb1d45e9e"
+    },
+    "refined/kernel_0.20000000.npz": {
+      "repo_path": "validation/predictions/baseline/Prediction_Calculations_2026-09-26/low_frequency/refined/kernel_0.20000000.npz",
+      "git_blob": "0e536a1b0267b8cd982ffd21e4872681292f58c1",
+      "sha256": "6d024d3398aad7743c92d12ced3143d500615061652273a97018cb6566d7a1b5"
+    },
+    "refined/rows.json": {
+      "repo_path": "validation/predictions/baseline/Prediction_Calculations_2026-09-26/low_frequency/refined/rows.json",
+      "git_blob": "6e8f0895285c13e78200ae08ffae5b9f1e2d8a70",
+      "sha256": "7ead4aa47b536cbb39318702ca11abc28946468dff52ffa76448004103894ac3"
+    },
+    "refined/status.json": {
+      "repo_path": "validation/predictions/baseline/Prediction_Calculations_2026-09-26/low_frequency/refined/status.json",
+      "git_blob": "077cc34005e8ecd14b0c686a955eb77026a4f5fe",
+      "sha256": "193fed469300fbc6459af37eab6dcf6b5031eb867eb43cffa00b2a39af7bae3a"
+    },
+    "validation/kernel_0.01250000.npz": {
+      "repo_path": "validation/predictions/baseline/Prediction_Calculations_2026-09-26/low_frequency/validation/kernel_0.01250000.npz",
+      "git_blob": "1ed72a813308f5e3547f9c65d3f25af9307cc098",
+      "sha256": "532891d1d5caffda0c6b2255c99871004e7328cf08b2648d2a6b8ddba9f93e37"
+    },
+    "validation/kernel_0.05000000.npz": {
+      "repo_path": "validation/predictions/baseline/Prediction_Calculations_2026-09-26/low_frequency/validation/kernel_0.05000000.npz",
+      "git_blob": "f4f90c1afdd73d0d1362a2972fbb52f9f5988e97",
+      "sha256": "7c1dd38b2a5bcd7f7d02095a2e52bd9bcca3b78f03819f53c31fc452906cdf6c"
+    },
+    "validation/kernel_0.20000000.npz": {
+      "repo_path": "validation/predictions/baseline/Prediction_Calculations_2026-09-26/low_frequency/validation/kernel_0.20000000.npz",
+      "git_blob": "e83495f22eb39d9eda7f55c643f4a167ee0c531e",
+      "sha256": "e3b49fbe62067a82226fd46a35c2d70d7c1f2a208a13fd8128769b778292aa98"
+    },
+    "validation/rows.json": {
+      "repo_path": "validation/predictions/baseline/Prediction_Calculations_2026-09-26/low_frequency/validation/rows.json",
+      "git_blob": "58b59a55e56aed3189b5590f7cf2f38eaa1c40ee",
+      "sha256": "ad8aea02f0d28802005daf148de136f9fb6267d2fabd1ef82eb031b549fc8aca"
+    },
+    "validation/status.json": {
+      "repo_path": "validation/predictions/baseline/Prediction_Calculations_2026-09-26/low_frequency/validation/status.json",
+      "git_blob": "c8149700d5a027df6948dbb6094a88e4dd3fa68d",
+      "sha256": "1bb3d24d03bf22894f2cc3b364d2c3c8732151efa752dddfc5512a5f4f1bb232"
+    }
+  }
+}

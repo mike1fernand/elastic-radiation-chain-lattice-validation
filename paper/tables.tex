@@ -1,0 +1,46 @@
+% Extracts from the manuscript for numerical validation.
+
+\begin{table}[htbp]
+\centering
+% TABLE1-CAPTION-BEGIN
+\caption{Signed departure from the leading prediction,
+$100[T_B/(C_B\omega^2)-1]$, in percent. The qT and qL entries use the coefficients
+for the shear-like pair and the longitudinal-like branch, respectively.}
+% TABLE1-CAPTION-END
+\label{tab:departures}
+\begin{tabular}{lrrrr}
+\hline
+% TABLE1-HEADER-BEGIN
+$\Omega$ & Ramp qT & Exchange qT & Ramp qL & Exchange qL\\
+% TABLE1-HEADER-END
+\hline
+% TABLE1-ROWS-BEGIN
+0.2    & 2.7   & 2.4    & 3.1   & 2.8\\
+0.05   & 0.17  & 0.15   & 0.19  & 0.17\\
+0.0125 & 0.010 & 0.0092 & 0.012 & 0.011\\
+% TABLE1-ROWS-END
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[htbp]
+\centering
+% TABLE2-CAPTION-BEGIN
+\caption{Estimated percentages of incident chain power at $\Omega=1.2$,
+from \href{https://github.com/mike1fernand/low-frequency-radiation-reciprocal-junction-validation/blob/6eac4ca3e89195a6b92445cfd408d9e1a8b1e26c/validation/referee_checks/profile_reversal.json}{surface integration}. The two chain columns give power traveling back
+toward the source and onward past the contact.}
+% TABLE2-CAPTION-END
+\label{tab:partition}
+\begin{tabular}{lrrrr}
+\hline
+% TABLE2-HEADER-BEGIN
+Contact & Reflected & Onward & Shear-like pair & Longitudinal-like\\
+% TABLE2-HEADER-END
+\hline
+% TABLE2-ROWS-BEGIN
+Ramp     & 12.0\% & 7.6\% & 73.6\% & 6.8\%\\
+Exchange & 18.4\% & 7.1\% & 67.9\% & 6.6\%\\
+% TABLE2-ROWS-END
+\hline
+\end{tabular}
+\end{table}

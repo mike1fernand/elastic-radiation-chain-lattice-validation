@@ -1,0 +1,18 @@
+{
+  "claim": "pointwise bound for qT fraction at omega=6/5, same entrance, swap 3 and 5",
+  "g": [
+    "1/7",
+    "2/7",
+    "5/7",
+    "4/7",
+    "3/7",
+    "6/7"
+  ],
+  "eG": "1/250",
+  "eQ": "1/500",
+  "kernel_sha256": "82777dacc866367cc2a4ffcb9b5430698afdcf577984a10186a48ab61f28c52b",
+  "qT_lower": "6697169359528801/9924144400000000",
+  "qT_upper": "661266871782241/969154726562500",
+  "qT_lower_display": 0.6748359445000418,
+  "qT_upper_display": 0.6823130029275015
+}

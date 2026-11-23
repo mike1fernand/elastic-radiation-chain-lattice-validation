@@ -1,0 +1,46 @@
+{
+  "commit": "6eac4ca3e89195a6b92445cfd408d9e1a8b1e26c",
+  "repository": "https://github.com/mike1fernand/low-frequency-radiation-reciprocal-junction-validation",
+  "files": {
+    "REFERENCE_KERNEL.npz": {
+      "repo_path": "validation/ramp/tolerance/inputs/REFERENCE_KERNEL.npz",
+      "sha256": "82777dacc866367cc2a4ffcb9b5430698afdcf577984a10186a48ab61f28c52b",
+      "git_blob": "8ecf1b441f0132419f6ec257408e2d5f275f4e5c"
+    },
+    "verify_point_rational.py": {
+      "repo_path": "validation/ramp/tolerance/verify_point_rational.py",
+      "sha256": "8cc7821ddc6c2adb20f9ff3079cda17519086479e11b1ddeb833053dcdcf3359",
+      "git_blob": "c3bb743efd56688c746dcad07f20f1ef9e0ab944"
+    },
+    "POINT_RATIONAL_CERTIFICATE.json": {
+      "repo_path": "validation/ramp/tolerance/POINT_RATIONAL_CERTIFICATE.json",
+      "sha256": "398e1907f4dc55d3ae8e31b962ffe05ebcbdd24af120777f852833ef308e772a",
+      "git_blob": "25e6d5a5f7d594e3d9bb94f320aa39f02ee0475c"
+    },
+    "VALIDATED_PROOF_CHAIN.json": {
+      "repo_path": "validation/ramp/tolerance/VALIDATED_PROOF_CHAIN.json",
+      "sha256": "2e6479af3c223dd7568be5adc06f48d3a16f98675b715dee4306b72e0296a6a1",
+      "git_blob": "698129b8e5c80b569b5d6772ac8c5cc67a03b165"
+    },
+    "POINT_RESOLVENT_PROOF.md": {
+      "repo_path": "validation/ramp/tolerance/POINT_RESOLVENT_PROOF.md",
+      "sha256": "fb98a161bd2d04b26f8ea7a07cf3c2fc6d5ffc6b863727bd198e09893605995f",
+      "git_blob": "e1d076f2abc3a39a6cc1e9f6f5cc5abdad49d69c"
+    },
+    "KERNEL_CENTER_BINDING_CHECK.json": {
+      "repo_path": "validation/ramp/bound_review/KERNEL_CENTER_BINDING_CHECK.json",
+      "sha256": "f9fa165fb1c1c816dbd5adc5fdf1355b8e7f53b738966b8157d3f40880601b47",
+      "git_blob": "94f6c6122833d6b558d8326a09f2c7eb64d902c9"
+    },
+    "N192.npz": {
+      "repo_path": "validation/reference_methods/tetra_ladder/N192.npz",
+      "sha256": "609c5990149bfe8f5975571897d3b069c94661b7d23955e2fd513e4dea18c4ef",
+      "git_blob": "5a30ff52dd534e7f43c19b829127f65f031d1434"
+    },
+    "profile_reversal.json": {
+      "repo_path": "validation/referee_checks/profile_reversal.json",
+      "sha256": "65ab3b2c1b15f02ffe2cc8b36b963ceb7f759ad51bad992953d6fb03f0ac2402",
+      "git_blob": "e2396f2b108d29ee9c153619c6394f042bce7b70"
+    }
+  }
+}
